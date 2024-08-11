@@ -1,0 +1,102 @@
+[
+    {
+        "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+        "choices": [
+            "Washington",
+            "Colorado",
+            "Arizona",
+            "New Mexico"
+        ],
+        "correct_answer": "New Mexico"
+    },
+    {
+        "question": "What does the acronym CDN stand for in terms of networking?",
+        "choices": [
+            "Content Delivery Network",
+            "Content Distribution Network",
+            "Compressed Data Network",
+            "Computational Data Network"
+        ],
+        "correct_answer": "Content Delivery Network"
+    },
+    {
+        "question": "Generally, which component of a computer draws the most power?",
+        "choices": [
+            "Power Supply",
+            "Processor",
+            "Hard Drive",
+            "Video Card"
+        ],
+        "correct_answer": "Video Card"
+    },
+    {
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "choices": [
+            "Steve Wozniak",
+            "Ronald Wayne",
+            "Jonathan Ive",
+            "Steve Jobs"
+        ],
+        "correct_answer": "Jonathan Ive"
+    },
+    {
+        "question": "On which computer hardware device is the BIOS chip located?",
+        "choices": [
+            "Central Processing Unit",
+            "Graphics Processing Unit",
+            "Motherboard",
+            "Hard Disk Drive"
+        ],
+        "correct_answer": "Motherboard"
+    },
+    {
+        "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+        "choices": [
+            "Java",
+            "C++",
+            "Objective-C",
+            "C#"
+        ],
+        "correct_answer": "C#"
+    },
+    {
+        "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+        "choices": [
+            "2013",
+            "2009",
+            "2016",
+            "2011"
+        ],
+        "correct_answer": "2016"
+    },
+    {
+        "question": "In the server hosting industry IaaS stands for...",
+        "choices": [
+            "Infrastructure as a Service",
+            "Infrastructure as a Server",
+            "Internet and a Server",
+            "Internet as a Service"
+        ],
+        "correct_answer": "Infrastructure as a Service"
+    },
+    {
+        "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+        "choices": [
+            "United States",
+            "Taiwan",
+            "Germany",
+            "China (People&#039;s Republic of)"
+        ],
+        "correct_answer": "Taiwan"
+    },
+    {
+        "question": "Which operating system was released first?",
+        "choices": [
+            "Mac OS",
+            "Windows",
+            "OS/2",
+            "Linux"
+        ],
+        "correct_answer": "Mac OS"
+    }
+]

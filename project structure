@@ -1,0 +1,8 @@
+quiz_game/
+│
+├── main.py                 # Python script to handle the quiz logic and HTTP server
+├── fetch_questions.py      # Python script to fetch questions from the web
+├── question_data.json      # JSON file to store fetched questions
+├── index.html              # Main HTML file for the UI
+├── styles.css              # CSS file for styling
+└── script.js               # JavaScript for frontend logic
